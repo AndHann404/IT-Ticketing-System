@@ -8,7 +8,7 @@
   
 ---
 ## Overview
-An IT Helpdesk Lab that simulates a Tier 1-2 Support Environment using the Spiceworks Cloud Help Desk platform. It provides a structured approach to the lifecycle of incident management, focusing on professional documentation, and systematic troubleshooting of common workplace technical issues.
+An IT Helpdesk Lab that simulates a Tier 1 Support Environment using the Spiceworks Cloud Help Desk platform. It provides a structured approach to the lifecycle of incident management, focusing on professional documentation, and systematic troubleshooting of common workplace technical issues.
 
 ---
 ## Objective
