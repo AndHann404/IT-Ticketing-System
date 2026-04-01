@@ -129,6 +129,31 @@ Signing up for Cloud HelpDesk <img width="1440" height="412" alt="Cloud Helpdesk
 
 Spiceworks Ticketing Dashboard Interface <img width="1438" height="692" alt="Explorepage" src="https://github.com/user-attachments/assets/95615500-bfed-46e4-bed1-259a57c0bfcc" />
 
+---
+## Practice Scenarios
 
+#### Creating Tickets
+When creating tickets in very important to provide as much detail as possible.
+So in this ticket:
+
+- It provided a detailed description of what the problem was and what they did so far to resolve it
+- Mentioned that its only happening to them
+- Provided contact information
+- Catergorzied Pirority
+- Provided an attachment for the Technician
+
+<img width="601" height="649" alt="Ticket Creation 1" src="https://github.com/user-attachments/assets/e4ce6056-0753-477d-984d-f8554c0094e1" />
+
+<img width="598" height="648" alt="Ticket Creation 2" src="https://github.com/user-attachments/assets/52bfc5d0-7abe-4f42-9910-15a2bca02c7a" />
+
+#### Scenario 1 (Network Issue)
+User Problem: Jason More, reports that he’s experience Connectivity issues - is not connecting to the internet 
+- Category: Network Issue
+- Priority: Medium (P3)
+- Action: Get permission from user, Research alterntive causes, go on the CLI and use the commands (Ipconfig, Ipconfig/release, Ipconfig/renew)
+
+<img width="1064" height="539" alt="My response" src="https://github.com/user-attachments/assets/5ed509ed-7c0f-4157-b96e-f80e95b005f9" />
+
+<img width="1065" height="543" alt="My description of the issue " src="https://github.com/user-attachments/assets/718464b8-f612-40b6-9573-25365205226f" />
 
     
