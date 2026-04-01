@@ -4,6 +4,7 @@
 - [Objective](#objective)
 - [Intro to Ticketing Systems](#intro-to-ticketing-systems)
 - [Getting started with Spiceworks](#getting-started-with-spiceworks)
+- [Practice Scenarios](#practice-senarios)
 ---
 ## Overview
 An IT Helpdesk Lab that simulates a Tier 1-2 Support Environment using the Spiceworks Cloud Help Desk platform. It provides a structured approach to the lifecycle of incident management, focusing on professional documentation, and systematic troubleshooting of common workplace technical issues.
@@ -147,13 +148,29 @@ So in this ticket:
 <img width="598" height="648" alt="Ticket Creation 2" src="https://github.com/user-attachments/assets/52bfc5d0-7abe-4f42-9910-15a2bca02c7a" />
 
 #### Scenario 1 (Network Issue)
-User Problem: Jason More, reports that he’s experience Connectivity issues - is not connecting to the internet 
+User Problem: Jason More reports that he’s experience Connectivity issues - is not connecting to the internet 
 - Category: Network Issue
 - Priority: Medium (P3)
-- Action: Get permission from user, Research alterntive causes, go on the CLI and use the commands (Ipconfig, Ipconfig/release, Ipconfig/renew)
+- Action: Respond to user, Research inspect the workstation, go on the CLI and use these commands (Ipconfig, Ipconfig/release, Ipconfig/renew)
 
 <img width="1064" height="539" alt="My response" src="https://github.com/user-attachments/assets/5ed509ed-7c0f-4157-b96e-f80e95b005f9" />
 
 <img width="1065" height="543" alt="My description of the issue " src="https://github.com/user-attachments/assets/718464b8-f612-40b6-9573-25365205226f" />
 
-    
+### Scenario 2 (Application Issue)
+User Problem: Jemma Lao reports that she is unable to Open the application Microsoft teams. She claims to have restarted her computer, but the problem still continues. 
+
+- Category: Other
+- Priority: Medium (P3)
+- Action: Ask her questions about any changes to her computer/gather info, ask her to check for application updates
+
+<img width="594" height="647" alt="ApplicationIssue" src="https://github.com/user-attachments/assets/0d42f4f8-b491-40d3-ad61-0c3b3216c6b6" />
+
+  <img width="1065" height="545" alt="Gathering info from Jemma" src="https://github.com/user-attachments/assets/06d61a91-2418-4679-ad8f-62da2f8c604e" />
+
+  
+<img width="1065" height="536" alt="Resolved Application issue" src="https://github.com/user-attachments/assets/77e7c6fb-6b08-4771-926f-85c46d1edcac" />
+
+
+<img width="720" height="69" alt="Screenshot 2026-04-01 at 4 34 01 PM" src="https://github.com/user-attachments/assets/5bd05c29-2253-4b91-af10-41253b6d46ec" />
+
