@@ -17,4 +17,25 @@ To Learn the fundamentals of an IT ticketing system, including:
 - How to classify and prioritize issues  
 - Ticket statuses and workflow  
 - Hands-on experience using Spiceworks Ticketing system in a HelpDesk setting
+---
+## Introduction to Ticketing Systems
 
+---
+## Getting Started with Spiceworks 
+1. Sign up for a Free Account
+2. Log into Spicework Helpdesk Dashboard
+3. Explore ticketing system:
+   - Creating tickets/Resolving tickets
+   - Updating status
+   - Adding Notes
+
+
+Spiceworks Signup Page <img width="1089" height="672" alt="Creating Spicework Account" src="https://github.com/user-attachments/assets/c55dec1f-880a-4dea-b1bc-7e832f901f86" />
+
+Signing up for Try Cloud HelpDesk <img width="1440" height="412" alt="Cloud Helpdesk" src="https://github.com/user-attachments/assets/ecd8cf2d-ba97-4b6a-92ab-97dccc4ea353" />
+
+Spiceworks Ticketing Dashboard Interace <img width="1438" height="692" alt="Explorepage" src="https://github.com/user-attachments/assets/95615500-bfed-46e4-bed1-259a57c0bfcc" />
+
+
+
+    
