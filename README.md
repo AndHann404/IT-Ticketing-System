@@ -15,7 +15,36 @@ To Learn the fundamentals of an IT ticketing system, including:
 - Ticket statuses and workflow  
 - Hands-on experience using Spiceworks Ticketing system in a HelpDesk setting
 ---
-## Introduction to Ticketing Systems
+## Intro to Ticketing Systems
+## 1. What is a Ticketing System?
+A ticketing system is a software interface used by IT teams to track, manage and resolve user issues effciently. It serves as a central hub that converts various communication channels into a single, organized list of tickets.
+
+It Ensures:
+- Clear documentation  
+- Proper routing  
+- Efficient communication  
+- Accountability  
+- Traceability of troubleshooting steps  
+
+
+**Examples of Common Ticketing Systems:** 
+Zendesk, Freshdeck, Spiceworks, Zohodesk, ServiceNow
+---
+## 2. Key Compoments of a Ticketing System
+#### Ticket ID number
+A unique reference number for each issue, this helps IT teams to track the tickets progress and maintain records.
+
+#### Requester
+The person who is reporting the issue. This ensures we are communicating with the right person for toubleshooting and follow ups.
+
+#### Catergory
+The Classifcation of an Issue. Used for organization and management of different tickets.
+Examples:
+- Hardware Issue (Laptop not booting, Hard Drive failure, Overheating)
+- Software Issue (Application crashes, Faulty Updates)
+- Network Issue (Wi-Fi Connectivity Issues, Slow Internet)
+- Account Access (Account Lockout)
+  
 
 ---
 ## Getting Started with Spiceworks 
