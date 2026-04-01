@@ -13,3 +13,4 @@ To Learn the fundamentals of an IT ticketing system, including:
 - How to classify and prioritize issues  
 - Ticket statuses and workflow  
 - Hands-on experience using Spiceworks Ticketing system in a HelpDesk setting
+
