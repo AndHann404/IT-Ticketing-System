@@ -180,6 +180,6 @@ User Problem: Jemma Lao reports that she is unable to Open the application Micro
 
 
 ## Resources
-- [YouTube tutorial](https://youtu.be/g1AZ-EtD6Nw?si=RBNATHl_1-PKMU4R)
+- [East Charmer YouTube tutorial](https://youtu.be/g1AZ-EtD6Nw?si=RBNATHl_1-PKMU4R)
 
 ---
