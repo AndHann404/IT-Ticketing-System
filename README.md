@@ -125,7 +125,7 @@ Update the ticket status whenever there are changes.
 
 Spiceworks Signup Page <img width="1089" height="672" alt="Creating Spicework Account" src="https://github.com/user-attachments/assets/c55dec1f-880a-4dea-b1bc-7e832f901f86" />
 
-Signing up for Try Cloud HelpDesk <img width="1440" height="412" alt="Cloud Helpdesk" src="https://github.com/user-attachments/assets/ecd8cf2d-ba97-4b6a-92ab-97dccc4ea353" />
+Signing up for Cloud HelpDesk <img width="1440" height="412" alt="Cloud Helpdesk" src="https://github.com/user-attachments/assets/ecd8cf2d-ba97-4b6a-92ab-97dccc4ea353" />
 
 Spiceworks Ticketing Dashboard Interface <img width="1438" height="692" alt="Explorepage" src="https://github.com/user-attachments/assets/95615500-bfed-46e4-bed1-259a57c0bfcc" />
 
