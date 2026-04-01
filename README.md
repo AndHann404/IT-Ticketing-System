@@ -5,6 +5,7 @@
 - [Intro to Ticketing Systems](#intro-to-ticketing-systems)
 - [Getting started with Spiceworks](#getting-started-with-spiceworks)
 - [Practice Scenarios](#practice-scenarios)
+- [Resources](#resources)
   
 ---
 ## Overview
@@ -175,3 +176,10 @@ User Problem: Jemma Lao reports that she is unable to Open the application Micro
 
 <img width="720" height="69" alt="Screenshot 2026-04-01 at 4 34 01 PM" src="https://github.com/user-attachments/assets/5bd05c29-2253-4b91-af10-41253b6d46ec" />
 
+
+
+
+## Resources
+- [YouTube tutorial](https://youtu.be/g1AZ-EtD6Nw?si=RBNATHl_1-PKMU4R)
+
+---
