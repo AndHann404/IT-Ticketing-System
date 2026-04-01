@@ -1,11 +1,6 @@
 # IT-Ticketing-System
 ## Table of Contents
-- [Overview](#-overview)
-- [Objective](#-objective)
-- [Introduction to Ticketing Systems](#-introduction-to-ticketing-systems)
-- [Getting Started with Spiceworks](#-getting-started-with-spiceworks)
-- [Practice Scenarios](#-practice-scenarios)
-- [Resources](#-resources)
+- [Overview](#-Overview)
 ---
 ## Overview
 An IT Helpdesk Lab that simulates a Tier 1-2 Support Environment using the Spiceworks Cloud Help Desk platform. It provides a structured approach to the lifecycle of incident management, focusing on professional documentation, and systematic troubleshooting of common workplace technical issues.
