@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Overview](#-overview)
 - [Objective](#-objective)
+- [Key Components of a Ticketing system](#-key-components-of-a-ticketing-system)
 - [Getting started with Spiceworks](#-getting-started-with-spiceworks)
 ---
 ## Overview
@@ -30,7 +31,7 @@ It Ensures:
 **Examples of Common Ticketing Systems:** 
 Zendesk, Freshdeck, Spiceworks, Zohodesk, ServiceNow
 ---
-## 2. Key Compoments of a Ticketing System
+## 2. Key Components of a Ticketing System
 #### Ticket ID number
 A unique reference number for each issue, this helps IT teams to track the tickets progress and maintain records.
 
@@ -47,7 +48,7 @@ Examples:
   
 
 ---
-## Getting Started with Spiceworks 
+## Getting started with Spiceworks 
 1. Sign up for a Free Account
 2. Log into Spicework Helpdesk Dashboard
 3. Explore ticketing system:
