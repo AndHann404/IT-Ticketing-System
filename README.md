@@ -1,7 +1,7 @@
 # IT-Ticketing-System
 ## Table of Contents
-- [Overview](#-overview)
-- [Objective](#-objective)
+- [Overview](#overview)
+- [Objective](#objective)
 - [Intro to Ticketing Systems](#intro-to-ticketing-systems)
 - [Getting started with Spiceworks](#getting-started-with-spiceworks)
 ---
