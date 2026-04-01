@@ -73,7 +73,7 @@ Tracks the progress of a Ticket
 
 ## 3. How to Properly Log Tickets
 #### Gather User Information
-- Name  
+- Full Name  
 - Email  
 - Contact number  
 - Department  
@@ -90,13 +90,29 @@ Examples:
 - Software issue  
 - Hardware issue  
 - Network issue  
-- Access request  
+- Account Access  
 
 #### Determine Priority Level
 
-- Urgent, High, Medium, or Low.
+- Critical, High, Medium, or Low.
 
 Based on impact and urgency of the Issue.
+
+#### Ask Followup Questions 
+- When did the issue start?
+- Did you download something prior to this issue occuring?
+- Have you noticed any error messages or crashes?
+- Are other applications also slow, or just Word doc?
+
+#### Assign to Techncian 
+Assigning the issue to the right technican
+- If the issue isn't resolved, you can escalate it to level 2. Make sure to inculde changes you made.
+
+
+#### Status
+Update the ticket status whenever there are changes 
+
+- Ex: In progress
 
 ---
 ## Getting started with Spiceworks 
