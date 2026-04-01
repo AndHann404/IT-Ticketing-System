@@ -23,8 +23,7 @@ A ticketing system is a software interface used by IT teams to track, manage and
 It Ensures:
 - Clear documentation  
 - Proper routing  
-- Efficient communication  
-- Accountability  
+- Efficient communication with user
 - Traceability of troubleshooting steps  
 
 
@@ -110,7 +109,7 @@ Assigning the issue to the right technican
 
 
 #### Status
-Update the ticket status whenever there are changes 
+Update the ticket status whenever there are changes.
 
 - Ex: In progress
 
@@ -128,7 +127,7 @@ Spiceworks Signup Page <img width="1089" height="672" alt="Creating Spicework Ac
 
 Signing up for Try Cloud HelpDesk <img width="1440" height="412" alt="Cloud Helpdesk" src="https://github.com/user-attachments/assets/ecd8cf2d-ba97-4b6a-92ab-97dccc4ea353" />
 
-Spiceworks Ticketing Dashboard Interace <img width="1438" height="692" alt="Explorepage" src="https://github.com/user-attachments/assets/95615500-bfed-46e4-bed1-259a57c0bfcc" />
+Spiceworks Ticketing Dashboard Interface <img width="1438" height="692" alt="Explorepage" src="https://github.com/user-attachments/assets/95615500-bfed-46e4-bed1-259a57c0bfcc" />
 
 
 
