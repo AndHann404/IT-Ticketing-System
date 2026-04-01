@@ -145,9 +145,11 @@ So in this ticket:
 - Catergorzied Pirority
 - Provided an attachment for the Technician
 
+Ticket Creation Process:
+
 <img width="601" height="649" alt="Ticket Creation 1" src="https://github.com/user-attachments/assets/e4ce6056-0753-477d-984d-f8554c0094e1" />
 
-<img width="598" height="648" alt="Ticket Creation 2" src="https://github.com/user-attachments/assets/52bfc5d0-7abe-4f42-9910-15a2bca02c7a" />
+ <img width="598" height="648" alt="Ticket Creation 2" src="https://github.com/user-attachments/assets/52bfc5d0-7abe-4f42-9910-15a2bca02c7a" />
 
 #### Scenario 1 (Network Issue)
 User Problem: Jason More reports that he’s experience Connectivity issues - is not connecting to the internet 
