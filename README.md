@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Overview](#-overview)
 - [Objective](#-objective)
-- [Key Components of a Ticketing system](#-key-components-of-a-ticketing-system)
+- [Intro to Ticketing Systems](#-intro-to-ticketing-systems)
 - [Getting started with Spiceworks](#-getting-started-with-spiceworks)
 ---
 ## Overview
