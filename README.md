@@ -28,8 +28,7 @@ It Ensures:
 - Traceability of troubleshooting steps  
 
 
-**Examples of Common Ticketing Systems:** 
-Zendesk, Freshdeck, Spiceworks, Zohodesk, ServiceNow
+**Examples of Common Ticketing Systems:** Zendesk, Freshdeck, Spiceworks, Zohodesk, ServiceNow
 ---
 ## 2. Key Components of a Ticketing System
 #### Ticket ID number
@@ -45,7 +44,59 @@ Examples:
 - Software Issue (Application crashes, Faulty Updates)
 - Network Issue (Wi-Fi Connectivity Issues, Slow Internet)
 - Account Access (Account Lockout)
+
+#### Priority Level
+Defining the urgency of an Issue. Used to define the order support requests are resolved.
+
+| Priority | Meaning | Impact | Example |
+|---------|---------|--------|---------|
+| **Critical (P1)** | Network outage | High | The main internet connection for the building is down |
+| **High (P2)** | Department-level issue | High | Ransomware detected on Payroll Server - Files encrypted |
+| **Medium (P3)** | Single-user issue | Low | Employee's desktop is running slow |
+| **Low (P4)** | Minor request | Minimal | Request for a new Webcam |
   
+#### Assigned To
+The Technican who is repsonsible for handling the ticket. 
+They are responsible for providing updates to the user.
+
+#### Status
+Tracks the progress of a Ticket 
+
+| Status | Meaning |
+|--------|---------|
+| **New** | Ticket created, not yet reviewed |
+| **In Progress** | Technician is actively working on it |
+| **Pending User Response** | IT needs more information from the user |
+| **Escalated** | Moved to higher-level technician/Support Team |
+| **Resolved** | Issues has been fixed, waiting on user confirmation |
+| **Closed** | User confirms issue is resolved, ticket is archived |
+
+## 3. How to Properly Log Tickets
+#### Gather User Information
+- Name  
+- Email  
+- Contact number  
+- Department  
+- Location (if applicable)
+
+#### Gather System Information
+- Device type  
+- Operating system  
+- Software version  
+- Network type (Wi-Fi/Ethernet)
+
+#### Categorize the Issue
+Examples:  
+- Software issue  
+- Hardware issue  
+- Network issue  
+- Access request  
+
+#### Determine Priority Level
+
+- Urgent, High, Medium, or Low.
+
+Based on impact and urgency of the Issue.
 
 ---
 ## Getting started with Spiceworks 
