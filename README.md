@@ -1,4 +1,4 @@
-# My IT-Ticketing-System
+# Ticketing System (using Spiceworks)
 ## Table of Contents
 - [Overview](#overview)
 - [Objective](#objective)
