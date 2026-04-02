@@ -1,4 +1,4 @@
-# Ticketing System (using Spiceworks)
+# Ticketing System Lab (using Spiceworks)
 ## Table of Contents
 - [Overview](#overview)
 - [Objective](#objective)
