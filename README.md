@@ -178,6 +178,27 @@ User Problem: Jemma Lao reports that she is unable to open the application Micro
 
 <img width="720" height="69" alt="Screenshot 2026-04-01 at 4 34 01 PM" src="https://github.com/user-attachments/assets/5bd05c29-2253-4b91-af10-41253b6d46ec" />
 
+### Scenario 3 (Software Issue (escalation))
+User Problem: Malcom reports that the office on the 3rd floor can’t connect to the network. 
+
+Note: In this scenario, I am unable to compelete the task and must escalate so the ticket will not be closed.
+
+- Category: Network
+- Priority: High (P2)
+- Actions: Ask questions about the status of the device/gather information, suggest a troubleshooting method, escalated the issue to a level 2, provide details of what I did so far.
+
+  <img width="592" height="595" alt="Malcom Ticket " src="https://github.com/user-attachments/assets/4a147292-3b8d-4304-9669-318f6d6386cc" />
+
+  <img width="1059" height="453" alt="Network issue ask questions" src="https://github.com/user-attachments/assets/f8257a97-8630-4283-9d75-56f8f6cafa42" />
+
+  <img width="745" height="543" alt="Troubleshooting" src="https://github.com/user-attachments/assets/51cca9ee-a6b2-47ba-b125-85436f1380a5" />
+
+  <img width="1063" height="537" alt="Escalation" src="https://github.com/user-attachments/assets/12fc891c-045d-43f8-8342-417781074cd9" />
+
+
+
+
+
 
 
 
