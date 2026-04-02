@@ -152,21 +152,21 @@ Ticket Creation Process:
  <img width="598" height="648" alt="Ticket Creation 2" src="https://github.com/user-attachments/assets/52bfc5d0-7abe-4f42-9910-15a2bca02c7a" />
 
 #### Scenario 1 (Network Issue)
-User Problem: Jason More reports that he’s experience Connectivity issues - is not connecting to the internet 
+User Problem: Jason More reports that he’s experiencing connectivity issues.
 - Category: Network Issue
 - Priority: Medium (P3)
-- Action: Respond to user, Research inspect the workstation, go on the CLI and use these commands (Ipconfig, Ipconfig/release, Ipconfig/renew)
+- Actions: Respond to user, Research inspect the workstation, go on the CLI and use these commands (Ipconfig, Ipconfig/release, Ipconfig/renew).
 
 <img width="1064" height="539" alt="My response" src="https://github.com/user-attachments/assets/5ed509ed-7c0f-4157-b96e-f80e95b005f9" />
 
 <img width="1065" height="543" alt="My description of the issue " src="https://github.com/user-attachments/assets/718464b8-f612-40b6-9573-25365205226f" />
 
 ### Scenario 2 (Application Issue)
-User Problem: Jemma Lao reports that she is unable to Open the application Microsoft teams. She claims to have restarted her computer, but the problem still continues. 
+User Problem: Jemma Lao reports that she is unable to open the application Microsoft teams. 
 
 - Category: Other
 - Priority: Medium (P3)
-- Action: Ask her questions about any changes to her computer/gather info, ask her to check for application updates
+- Actions: Ask her questions about any changes to her computer/gather info (messages popping up, etc), ask her to restart her computer; if that doesnt work tell her to check for application updates.
 
 <img width="594" height="647" alt="ApplicationIssue" src="https://github.com/user-attachments/assets/0d42f4f8-b491-40d3-ad61-0c3b3216c6b6" />
 
