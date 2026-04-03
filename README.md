@@ -25,8 +25,8 @@ To Learn the fundamentals of an IT ticketing system, including:
 A ticketing system is a software interface used by IT teams to track, manage and resolve user issues effciently. It serves as a central hub that converts various communication channels into a single, organized list of tickets.
 
 It Ensures:
-- Clear documentation  
-- Proper routing  
+- Clear and comprehensive documentation
+- Proper request routing 
 - Efficient communication with user
 - Traceability of troubleshooting steps  
 
