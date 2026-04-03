@@ -197,7 +197,7 @@ Note: In this scenario, I am unable to compelete the task and must escalate so t
   <img width="1063" height="537" alt="Escalation" src="https://github.com/user-attachments/assets/12fc891c-045d-43f8-8342-417781074cd9" />
 
 ## Conclusion
-This Ticketing system project demonstrates the creating and manging tickets within different scenerios. Equipping me with skills necessary for a Help Desk or IT Support Role. By completing this lab, I have gained experience with managing tickets (resolving and escalating) within an environment.
+This project demonstrates the creation and management of IT support tickets across different scenarios. It has equipped me with practical skills for a Help Desk or IT Support role, including resolving issues and escalating tickets appropriately. Completing this lab provided hands-on experience in managing tickets effectively within a simulated IT environment.
 
 
 ## Resources
