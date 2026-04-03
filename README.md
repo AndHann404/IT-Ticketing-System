@@ -5,11 +5,12 @@
 - [Intro to Ticketing Systems](#intro-to-ticketing-systems)
 - [Getting started with Spiceworks](#getting-started-with-spiceworks)
 - [Practice Scenarios](#practice-scenarios)
+- [Conclusion](#conclusion)
 - [Resources](#resources)
   
 ---
 ## Overview
-An IT Helpdesk Lab that simulates a Tier 1 Support Environment using the Spiceworks Cloud Help Desk platform. It provides a structured approach to the lifecycle of incident management, focusing on professional documentation, and systematic troubleshooting of common workplace technical issues.
+This an IT Lab that simulates a Tier 1 Support Environment using the Spiceworks Cloud Help Desk platform. It provides a structured approach to the lifecycle of incident management, focusing on professional documentation, and systematic troubleshooting of common workplace technical issues.
 
 ---
 ## Objective
@@ -195,11 +196,8 @@ Note: In this scenario, I am unable to compelete the task and must escalate so t
 
   <img width="1063" height="537" alt="Escalation" src="https://github.com/user-attachments/assets/12fc891c-045d-43f8-8342-417781074cd9" />
 
-
-
-
-
-
+## Conclusion
+This Ticketing system project demonstrates the creating and manging tickets within different scenerios. Equipping me with skills necessary for a Help Desk or IT Support Role. By completing this lab, I have gained experience with managing tickets (resolving and escalating) within an environment.
 
 
 ## Resources
