@@ -219,6 +219,29 @@ Note: In this scenario, I am unable to compelete the task and must escalate so t
 
   <img width="1063" height="537" alt="Escalation" src="https://github.com/user-attachments/assets/12fc891c-045d-43f8-8342-417781074cd9" />
 
+
+#### Scenario 4 (Printer Issue)
+User Problem: Jason More reports that him and his team aren't able to print out documents.
+- Category: Printer Issue
+- Priority: Medium (P2)
+- Actions: Respond to user and ask multiple follow up questions, Instruct them to check to see if they are connected to their Printer, re - establish network connection to printer, test out printer and confirm with user
+
+  Note: In this scenerio there will be an SLA time line needed to be followed.
+
+  <img width="600" height="644" alt="Printer Issue Ticket" src="https://github.com/user-attachments/assets/188e1238-f907-4f98-b410-2f49d6cae9d9" />
+ 
+<img width="744" height="542" alt="Printer Issue part 1" src="https://github.com/user-attachments/assets/f25780dd-c9d6-4259-b6a7-9f8da63a8650" />
+
+<img width="742" height="538" alt="Printer Issue part 2" src="https://github.com/user-attachments/assets/84a81481-7841-4ba0-a6a0-901ef4f87034" />
+
+<img width="743" height="540" alt="Printer issue part 3" src="https://github.com/user-attachments/assets/537bc246-df85-47da-9ca4-aad06381b791" />
+
+<img width="1060" height="543" alt="Printer issue part 4" src="https://github.com/user-attachments/assets/05d72285-d338-4eeb-a8d4-a08f30419623" />
+
+<img width="1064" height="543" alt="Printer Issue Closing" src="https://github.com/user-attachments/assets/9fca2268-81e9-452c-b66f-ef6241b047be" />
+
+
+
 ## Conclusion
 This project demonstrates the creation and management of IT support tickets across different scenarios. It has equipped me with practical skills for a Help Desk or IT Support role, including resolving issues and escalating tickets appropriately. Completing this lab provided hands-on experience in managing tickets effectively within a simulated IT environment.
 
