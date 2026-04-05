@@ -240,6 +240,7 @@ User Problem: Jason More reports that him and his team aren't able to print out 
 
 <img width="1064" height="543" alt="Printer Issue Closing" src="https://github.com/user-attachments/assets/9fca2268-81e9-452c-b66f-ef6241b047be" />
 
+<img width="718" height="431" alt="Screenshot 2026-04-05 at 2 29 41 PM" src="https://github.com/user-attachments/assets/b910f1a8-c275-4ea7-b190-3c1280194759" />
 
 
 ## Conclusion
