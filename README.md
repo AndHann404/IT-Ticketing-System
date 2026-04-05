@@ -24,14 +24,16 @@ To Learn the fundamentals of an IT ticketing system, including:
 ## 1. What is a Ticketing System?
 A ticketing system is a software interface used by IT teams to track, manage and resolve user issues effciently. It serves as a central hub that converts various communication channels into a single, organized list of tickets.
 
-It Ensures:
+This ensures:
 - Clear and comprehensive documentation
-- Proper request routing 
-- Efficient communication with user
-- Traceability of troubleshooting steps  
+- Proper request/ticket routing 
+- Efficient communication with users
+- Visibility and tracking of troubleshooting activities
+- Accountability and ownership
+- Knowledge sharing
 
 
-**Examples of Common Ticketing Systems:** Zendesk, Freshdeck, Spiceworks, Zohodesk, ServiceNow
+**Examples of Common Ticketing Systems:** Zendesk, Freshdeck, ServiceNow
 ---
 ## 2. Key Components of a Ticketing System
 #### Ticket ID number
@@ -60,19 +62,19 @@ Defining the urgency of an Issue. Used to define the order support requests are 
   
 #### Assigned To
 The Technican who is repsonsible for handling the ticket. 
-They are responsible for providing updates to the user.
+They are also responsible for providing updates to the user.
 
 #### Status
 Tracks the progress of a Ticket 
 
 | Status | Meaning |
 |--------|---------|
-| **New** | Ticket created, not yet reviewed |
+| **New** | Ticket created, not yet reviewed by anyone |
 | **In Progress** | Technician is actively working on it |
 | **Pending User Response** | IT needs more information from the user |
 | **Escalated** | Moved to higher-level technician/Support Team |
 | **Resolved** | Issues has been fixed, waiting on user confirmation |
-| **Closed** | User confirms issue is resolved, ticket is archived |
+| **Closed** | User confirms issue is resolved, ticket is now archived |
 
 ## 3. How to Properly Log Tickets
 #### Gather User Information
@@ -84,8 +86,8 @@ Tracks the progress of a Ticket
 
 #### Gather System Information
 - Device type  
-- Operating system  
-- Software version  
+- Operating System 
+- Software Version  
 - Network type (Wi-Fi/Ethernet)
 
 #### Categorize the Issue
@@ -93,13 +95,16 @@ Examples:
 - Software issue  
 - Hardware issue  
 - Network issue  
-- Account Access  
+- Account Access
+- Other   
 
 #### Determine Priority Level
 
 - Critical, High, Medium, or Low.
 
-Based on impact and urgency of the Issue.
+The level is based on impact and urgency of the issue.
+
+- Ex: If there was a Power issue for an entire floor, then the priority level would be High or Critical.
 
 #### Ask Followup Questions 
 - When did the issue start?
@@ -109,13 +114,13 @@ Based on impact and urgency of the Issue.
 
 #### Assign to Techncian 
 Assigning the issue to the right technican
-- If the issue isn't resolved, you can escalate it to level 2. Make sure to inculde changes you made.
+- If the issue isn't resolved, you can escalate it to level 2 or level 3. Make sure to inculde changes and troubleshooting methods used within the notes.
 
 
 #### Status
 Update the ticket status whenever there are changes.
 
-- Ex: In progress
+- Ex: In progress, Resolved, Closed
 
 ---
 ## Getting started with Spiceworks 
@@ -125,6 +130,7 @@ Update the ticket status whenever there are changes.
    - Creating tickets/Resolving tickets
    - Updating status
    - Adding Notes
+   - Creating Help Desk Scenarios 
 
 
 Spiceworks Signup Page <img width="1089" height="672" alt="Creating Spicework Account" src="https://github.com/user-attachments/assets/c55dec1f-880a-4dea-b1bc-7e832f901f86" />
