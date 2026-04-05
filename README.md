@@ -42,13 +42,17 @@ A unique reference number for each issue, this helps IT teams to track the ticke
 #### Requester
 The person who is reporting the issue. This ensures we are communicating with the right person for toubleshooting and follow ups.
 
-#### Catergory
-The Classifcation of an Issue. Used for organization and management of different tickets.
+#### Category
+The Classifcation of an issue. Used for the organization and management of different tickets.
 Examples:
 - Hardware Issue (Laptop not booting, Hard Drive failure, Overheating)
 - Software Issue (Application crashes, Faulty Updates)
 - Network Issue (Wi-Fi Connectivity Issues, Slow Internet)
 - Account Access (Account Lockout)
+
+#### Assigned To
+The Technican who is repsonsible for handling the ticket. 
+They are also responsible for providing updates to the user.
 
 #### Priority Level
 Defining the urgency of an Issue. Used to define the order support requests are resolved.
@@ -60,9 +64,6 @@ Defining the urgency of an Issue. Used to define the order support requests are 
 | **Medium (P3)** | Single-user issue | Low | Employee's desktop is running slow |
 | **Low (P4)** | Minor request | Minimal | Request for a new Webcam |
   
-#### Assigned To
-The Technican who is repsonsible for handling the ticket. 
-They are also responsible for providing updates to the user.
 
 #### Status
 Tracks the progress of a Ticket 
@@ -106,10 +107,11 @@ The level is based on impact and urgency of the issue.
 
 - Ex: If there was a Power issue for an entire floor, then the priority level would be High or Critical.
 
-#### Ask Followup Questions 
+#### Ask Follow up Questions 
 - When did the issue start?
 - Did you download something prior to this issue occuring?
 - Have you noticed any error messages or crashes?
+- Is this issue happening to anyone else or any other departments?
 - Are other applications also slow, or just Word doc?
 
 #### Assign to Techncian 
@@ -121,6 +123,21 @@ Assigning the issue to the right technican
 Update the ticket status whenever there are changes.
 
 - Ex: In progress, Resolved, Closed
+
+
+### Service Level Agreement (SLA) for Ticketing Systems
+
+- This defines the expected response and resolution times for different types fo technical issues.
+
+| Key components of SLA | Meaning |
+|--------|---------|
+| **Repsonse Time** | The time it takes for IT Support/Helpdesk to respond to a Ticket |
+| **Resolution Time** | The time within the issue should to be resolved |
+| **Ticket Pirortization** | Piroritizing Ticket levels based on the impact of the issue |
+| **Escalaction Process** | Defines when and how a Ticket should be esalaction to a level 2/3 Technician if not resolved within the SLA |
+| **Service Availablilty** | Classifies Support Hours |
+| **Penalties and Breach Consequences** | Defines what happens when SLA's aren't met |
+
 
 ---
 ## Getting started with Spiceworks 
