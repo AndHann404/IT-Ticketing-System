@@ -242,6 +242,25 @@ User Problem: Jason More reports that him and his team aren't able to print out 
 
 <img width="718" height="431" alt="Screenshot 2026-04-05 at 2 29 41 PM" src="https://github.com/user-attachments/assets/b910f1a8-c275-4ea7-b190-3c1280194759" />
 
+#### Scenario 5 (Hardware Issue)
+User Problem: Jemma reports that their company laptop will not turn on. They mention that it was working fine the previous day, but now nothing happens when they press the power button.
+
+- Category: Hardware Issue
+- Priority: Medium (P3)
+- Actions: Gather Information (asking user questions), narrow the issue, provide solutions, document results
+
+  <img width="596" height="642" alt="Hardware scenario 1" src="https://github.com/user-attachments/assets/1420d62b-7fee-41c3-a2b5-e99a566f70ed" />
+
+<img width="1063" height="543" alt="Hardware scenario 2" src="https://github.com/user-attachments/assets/bde852e4-b3d1-47bc-bf47-e645bb186550" />
+
+<img width="1069" height="455" alt="Hardware Scenario 3" src="https://github.com/user-attachments/assets/a265d6c6-12b1-48eb-b3d1-cc70d9d8508b" />
+
+<img width="741" height="92" alt="Hardware scenario 4" src="https://github.com/user-attachments/assets/764583da-971b-44f3-98e9-b273d926811b" />
+
+<img width="747" height="386" alt="Hardware Scenario 5" src="https://github.com/user-attachments/assets/833411b4-8f31-4b9c-87d5-760508367911" />
+
+<img width="719" height="293" alt="Hardware Scenario Document" src="https://github.com/user-attachments/assets/a2c00c61-6ed8-493c-b18f-65b2e3e96528" />
+
 
 ## Conclusion
 This project demonstrates the creation and management of IT support tickets across different scenarios. It has equipped me with practical skills for a Help Desk or IT Support role, including resolving issues and escalating tickets appropriately. Completing this lab provided hands-on experience in managing tickets effectively within a simulated IT environment.
